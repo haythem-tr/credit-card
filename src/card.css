@@ -1,0 +1,80 @@
+.credit-card{
+    background-image: url(./img/ff.jpg);
+   background-size: cover;
+   width: 50%;
+  
+   border-radius: 5%
+}
+.titel{
+    color:white;
+
+}
+.second{
+    display: flex;
+   
+}
+.date{
+    display: flex;
+    flex-direction: column;
+    margin-top: 14%
+}
+.number{
+    color: gold;
+    font-family: auto;
+    font-size: 191%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.visa{
+    margin-top: 10%;
+    margin-left: 9%;
+    width: 10%;
+    height: 14%;
+}
+.cardholder{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+
+}
+.code{
+    color: white;
+}
+.name{
+    color: white;
+}
+.puce{
+    margin-left: -67%;
+    margin-top:  10%;
+}
+.month{
+    color: white;
+    font-size: 70%;
+}
+.year{
+    color: antiquewhite;
+    font-family: auto;
+    font-size:200%;
+    margin-top: -6%;
+    margin-left: 10%;
+}
+.valid{
+    display: flex;
+    margin-top: 15%;
+}
+.thru{
+    display: flex;
+    flex-direction: column;
+    margin-top:29%;
+}
+.bloc-date{
+    margin-top: 7%;
+    margin-left: 43%;
+}
+.hold{
+    color: antiquewhite;
+    font-family: auto;
+    font-size: 100%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
